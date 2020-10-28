@@ -680,7 +680,7 @@ a:hover {
         font-size: 32px;
         margin-bottom: 15px;
     }
-    .theme-default section p {
+    .theme-default > section > p {
         display: inline-block;
         margin-bottom: 20px;
     }
