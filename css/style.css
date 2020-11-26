@@ -445,7 +445,10 @@ a:hover {
     color: #ffffff;
 }
 
-.theme-default section p {
+/* .theme-default section p {
+    color: #333;
+} */
+.theme-default section {
     color: #333;
 }
 
